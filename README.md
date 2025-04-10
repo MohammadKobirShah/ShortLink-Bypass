@@ -89,7 +89,7 @@ https://github.com/MohammadKobirShah/shortlink-bypass/raw/main/ShortlinkBypass.u
 ---
 
 
-## 🧪 Screenshot
+## 📸 Screenshot
 
 > Say goodbye to “Click & Wait 15 seconds” forever 😎
 
