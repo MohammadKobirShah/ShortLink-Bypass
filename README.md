@@ -1,5 +1,5 @@
 
-<h1 align="center">🧨 Shortlink Bypass – 90% </h1>
+<h1 align="center">🧨 Shortlink Bypass – 90% Shortlink Websites </h1>
 
 <p align="center">
   <b>Zero-wait. Zero-click. 100% freedom from ad traps.</b><br>
