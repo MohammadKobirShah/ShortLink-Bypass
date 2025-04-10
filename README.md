@@ -22,7 +22,7 @@ This Tampermonkey script **automatically bypasses** shortlink ads from services 
 
 - 🔗 [Just2Earn](https://just2earn.com)
 - 🔗 [GPLinks](https://gplinks.in)
-- 🧪 And any site using similar bypass logic
+- 🧪 And many more that use the same verification or ad-timer schemes
 
 It removes:
 - ⏳ Countdown timers
@@ -30,6 +30,19 @@ It removes:
 - 🧼 Annoying overlays & ad blockers
 
 ---
+
+## 💡 Features at a Glance
+
+| ⚡ Feature                    | 💬 Description                                    |
+|-----------------------------|---------------------------------------------------|
+| ✅ Auto-Clicking             | Instantly clicks buttons like `#btn`, `.verify`  |
+| ⏱ Timer Bypass              | Sets countdowns to `0` and removes delay logic   |
+| 🧼 Ad/Overlay Cleaner        | Hides junk like `#gads`, `.adbox`, `.wait-msg`   |
+| 🧠 DOM-Smart Injection       | Uses `window.onload` + delay for max compatibility |
+| 🌍 Cross-site Support        | Works on any similarly-built shortlink scam site |
+
+---
+
 
 ## 🧠 How It Works
 
@@ -75,10 +88,21 @@ https://github.com/MohammadKobirShah/shortlink-bypass/raw/main/ShortlinkBypass.u
 
 ---
 
+
+## 🧪 Screenshot
+
+> Skipping like a boss 🧢
+
+![screenshot preview](./screenshot.png)
+
+---
+
+
 ## 🛡️ License
 
-Licensed under the MIT License — free for personal or commercial use.  
-Please link back if you fork or remix 🫶
+Licensed under the MIT License — free for personal use.  
+MIT License — use it, remix it, share it.  
+**Don’t sell it without giving credit** 🙅‍♂️
 
 ---
 
