@@ -1,8 +1,4 @@
-Alright, time to dial it up 🔥 Let's go **ultra-modern**, **clean**, and **eye-catching** – with pro dev vibes + a dash of hacker charm 😎. Here's a revamped `README.md` — designed for maximum open source style points and dev interest:
 
----
-
-```markdown
 <h1 align="center">🧨 Shortlink Bypass – Just2Earn + GPLinks</h1>
 
 <p align="center">
