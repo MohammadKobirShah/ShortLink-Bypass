@@ -31,7 +31,7 @@ It removes:
 
 ---
 
-## 💡 Features at a Glance
+## 💡 Features
 
 | ⚡ Feature                    | 💬 Description                                    |
 |-----------------------------|---------------------------------------------------|
@@ -91,9 +91,9 @@ https://github.com/MohammadKobirShah/shortlink-bypass/raw/main/ShortlinkBypass.u
 
 ## 🧪 Screenshot
 
-> Skipping like a boss 🧢
+> Say goodbye to “Click & Wait 15 seconds” forever 😎
 
-![screenshot preview](./screenshot.png)
+<p align="center"> <img src="./screenshot.png" alt="Demo Screenshot" width="600"> </p>
 
 ---
 
@@ -102,7 +102,7 @@ https://github.com/MohammadKobirShah/shortlink-bypass/raw/main/ShortlinkBypass.u
 
 Licensed under the MIT License — free for personal use.  
 MIT License — use it, remix it, share it.  
-**Don’t sell it without giving credit** 🙅‍♂️
+**Don’t sell it without giving credit** 😉
 
 ---
 
