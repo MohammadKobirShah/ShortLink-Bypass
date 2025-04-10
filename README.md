@@ -1,5 +1,3 @@
-Say less 😎 Here's a **clean, modern, stylish `README.md`** for your shortlink bypass userscript — built to look dope on GitHub and grab attention, while also being practical.
-
 ---
 
 ```markdown
@@ -7,89 +5,89 @@ Say less 😎 Here's a **clean, modern, stylish `README.md`** for your shortlink
 
 [![Made by @MohammadKobirShah](https://img.shields.io/badge/Made%20by-MohammadKobirShah-9cf?style=flat&logo=github)](https://github.com/MohammadKobirShah)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
-[![Tampermonkey Compatible](https://img.shields.io/badge/Tampermonkey-Compatible-brightgreen.svg?logo=google-chrome)](https://www.tampermonkey.net/)
+[![Tampermonkey Compatible](https://img.shields.io/badge/Tampermonkey-Compatible-brightgreen.svg?logo=googlechrome)](https://www.tampermonkey.net/)
 
-🚀 A sleek userscript that auto-skips annoying wait times on shady shortlink sites like `just2earn`, `gplinks.co`, and others. No more "please wait 15 seconds" garbage. It’s fast, lightweight, and made with ✨ vibes.
+🚀 A sleek userscript that **auto-skips annoying wait times** on shady shortlink sites like `just2earn`, `gplinks.co`, and more.  
+No more "please wait 15 seconds" garbage — it’s fast, lightweight, and made with ✨ vibes.
 
 ---
 
 ## ⚡ Features
 
-- ✅ **Bypasses wait timers** on multiple shortlink services
-- 🧼 **Hides ads & overlays** that block content
-- ⏱ **Auto-clicks verify buttons** (like `@d`) so you don’t have to
-- 🧠 Designed to adapt to changing DOM elements
-- 🧩 Easy install via Tampermonkey or Violentmonkey
+- ✅ **Bypasses wait timers** on multiple shortlink services  
+- 🧼 **Hides ads & overlays** that block content  
+- ⏱ **Auto-clicks verify buttons** (like `@d`) so you don’t have to  
+- 🧠 Smart adaptation to DOM changes (less breakage)  
+- 🧩 Easy install via Tampermonkey or Violentmonkey  
 
 ---
 
-## 🛠 Supported Sites (So Far)
+## 🌐 Supported Sites
 
-- `just2earn.co`
-- `gplinks.co`
-- Any shortlink using the same timer/verify system (we expanding)
+- `just2earn.co`  
+- `gplinks.co`  
+- And any shortlink site using similar timer/verify logic (we're expanding 👀)
 
 ---
 
-## 🧪 How to Install
+## 🛠️ How to Install
 
-1. Install [Tampermonkey](https://www.tampermonkey.net/) in your browser.
-2. Click the link below to install the script:
+1. Install [Tampermonkey](https://www.tampermonkey.net/) in your browser  
+2. Click below to install the script:  
    > 🚀 **[Install Script (COMING SOON)](#)**  
-   *(Or copy-paste from this repo manually)*
-3. Visit a shortlink site and enjoy the ✨ no-wait experience.
+   *(Or copy-paste it manually from this repo)*  
+3. Visit a shortlink site and enjoy the ✨ no-wait experience
 
 ---
 
-## 🧬 Script Overview
+## 🧬 What the Script Does
 
 ```js
-// Rewrites the "getlink" function to zero delay
-// Auto-clicks verify buttons
-// Sets countdowns to zero
-// Removes overlay + ad blocks
+// Rewrites countdown functions to skip delays
+// Auto-clicks verification buttons
+// Removes ad overlays & unnecessary DOM junk
+// Clean and fast — no bloat
 ```
-
-Simple, clean, and made for speed. Want to contribute? Fork it and go wild.
 
 ---
 
 ## 📸 Preview
 
 ![Demo Screenshot](./screenshot.png)  
-> Say goodbye to "Click & Wait 15 seconds" forever 😎
+> Say goodbye to “Click & Wait 15 seconds” forever 😎
 
 ---
 
 ## 🤝 Contribute
 
-- Star this repo ⭐
-- Fork it 🍴
-- PRs welcome! Let’s make shortlink hell a thing of the past.
+- ⭐ Star this repo  
+- 🍴 Fork it  
+- 🔁 PRs welcome — help expand support & features!
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License. Do whatever, just give credit.
+MIT License — Free to use, modify, and share.  
+Just don’t sell it without giving credit. 😉
 
 ---
 
-## 🧑‍💻 Author
+## 👨‍💻 Author
 
 **Mohammad Kobir Shah**  
-🔗 [GitHub Profile →](https://github.com/MohammadKobirShah)
+🔗 [GitHub →](https://github.com/MohammadKobirShah)
 
 ---
 
-> Made with 💻, ☕, and a deep hatred for ad links.
+> Built with 💻, ☕, and a deep hatred for shady ad links.
 ```
 
 ---
 
-Let me know if you want me to include:
-- Live link to install the script
-- Screenshots/gifs auto-generated
-- Credits or donation buttons (Buy Me a Coffee style)
+You're locked and loaded now. Want me to:
+- Auto-generate a screenshot with fake UI?
+- Set up a basic landing page for the script?
+- Drop in a "Buy Me a Coffee" button?
 
-I gotchu 👾
+Let’s turn this into a 🔥 GitHub banger.
