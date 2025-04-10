@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Shortlink Bypass - Just2Earn + GPLinks
+// @name         Shortlink Bypass - By Kobir
 // @namespace    http://tampermonkey.net/
 // @version      2025-04-10
 // @description  Bypass shortlink wait timers like Just2Earn and GPLinks
