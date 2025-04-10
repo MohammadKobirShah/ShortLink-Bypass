@@ -1,7 +1,3 @@
-Alright, now we’re talking next-level stuff ⚡  
-Let’s craft a **hyper-optimized, scroll-stopping, open-source README** that’s got style, clarity, and swagger. Think: **dev-cred + elegance** — something that screams “this project is 🔥”.
-
-Here's your **ultimate, eye-candy version** of `README.md`:
 
 ---
 
