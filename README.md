@@ -10,12 +10,13 @@
   <a href="https://github.com/MohammadKobirShah"><img alt="Author" src="https://img.shields.io/badge/Author-Mohammad%20Kobir%20Shah-blue?style=flat-square"></a>
   <img alt="Version" src="https://img.shields.io/badge/version-2025.04.10-purple?style=flat-square">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-green?style=flat-square">
-</p>
 
 [![Made by @MohammadKobirShah](https://img.shields.io/badge/Made%20by-MohammadKobirShah-9cf?style=flat&logo=github)](https://github.com/MohammadKobirShah)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Tampermonkey Compatible](https://img.shields.io/badge/Tampermonkey-Compatible-brightgreen.svg?logo=google-chrome)](https://www.tampermonkey.net/)
 ![Bypass Power](https://img.shields.io/badge/bypass-mode--activated-critical?style=flat&logo=thunderbird)
+
+</p>
 
 ---
 
