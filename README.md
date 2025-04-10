@@ -6,8 +6,8 @@
 # 🔗✨ Shortlink Bypass Script — Just2Earn + GPLinks & More
 
 [![Made by @MohammadKobirShah](https://img.shields.io/badge/Made%20by-MohammadKobirShah-9cf?style=flat&logo=github)](https://github.com/MohammadKobirShah)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
-[![Tampermonkey Compatible](https://img.shields.io/badge/Tampermonkey-Compatible-brightgreen.svg?logo=googlechrome)](https://www.tampermonkey.net/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Tampermonkey Compatible](https://img.shields.io/badge/Tampermonkey-Compatible-brightgreen.svg?logo=google-chrome)](https://www.tampermonkey.net/)
 
 🚀 A sleek userscript that **auto-skips annoying wait times** on shady shortlink sites like `just2earn`, `gplinks.co`, and more.  
 No more "please wait 15 seconds" garbage — it’s fast, lightweight, and made with ✨ vibes.
