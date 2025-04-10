@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MohammadKobirShah"><img alt="Author" src="https://img.shields.io/badge/Author-Mohammad%20Kobir%20Shah-blue?style=flat-square"></a>
+  <a href="https://github.com/MohammadKobirShah"><img alt="Made by" src="https://img.shields.io/badge/Made%20by-MohammadKobirShah-9cf?style=flat&logo=github"></a>
   <img alt="Version" src="https://img.shields.io/badge/version-2025.04.10-purple?style=flat-square">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-green?style=flat-square">
 
