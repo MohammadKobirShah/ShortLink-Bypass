@@ -97,6 +97,17 @@ https://github.com/MohammadKobirShah/shortlink-bypass/raw/main/ShortlinkBypass.u
 
 ---
 
+## 💬 Got Ideas?
+
+Have a site to support, bug to squash, or just wanna say thanks?
+
+- Star this repo ⭐  
+- Fork it 🍴  
+- Open issues ✍️  
+- Let’s make the web faster for everyone 💥
+
+---
+
 
 ## 🛡️ License
 
