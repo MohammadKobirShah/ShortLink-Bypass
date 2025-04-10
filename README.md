@@ -8,11 +8,12 @@
 
 <p align="center">
   <a href="https://github.com/MohammadKobirShah"><img alt="Made by" src="https://img.shields.io/badge/Made%20by-MohammadKobirShah-9cf?style=flat&logo=github"></a>
+  <a href="LICENSE"><img alt="LICENSE" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
   <img alt="Version" src="https://img.shields.io/badge/version-2025.04.10-purple?style=flat-square">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-green?style=flat-square">
 
 [![Made by @MohammadKobirShah](https://img.shields.io/badge/Made%20by-MohammadKobirShah-9cf?style=flat&logo=github)](https://github.com/MohammadKobirShah)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]()
 [![Tampermonkey Compatible](https://img.shields.io/badge/Tampermonkey-Compatible-brightgreen.svg?logo=google-chrome)](https://www.tampermonkey.net/)
 ![Bypass Power](https://img.shields.io/badge/bypass-mode--activated-critical?style=flat&logo=thunderbird)
 
